@@ -1,0 +1,28 @@
+s1_value = int(s1.get())
+s2_value = int(s2.get())
+s3_value = int(s3.get())
+s4_value = int(s4.get())
+s5_value = int(s5.get())
+s6_value = int(s6.get())
+s7_value = int(s7.get())
+s8_value = int(s8.get())
+s9_value = int(s9.get())
+s10_value = int(s10.get())
+s11_value = int(s11.get())
+s12_value = int(s12.get())
+
+
+
+
+
+
+s1_value,s2_value,s3_value,s4_value,s5_value,s6_value,s7_value,s8_value,s9_value,s10_value,s11_value,s12_value
+
+
+
+
+ some workouts with increasing intensity
+
+
+next_button = Button(window, text='>>>', bg='black', fg='white', command=login_screen)
+next_button.place(x=500,y=640)
